@@ -1,0 +1,14 @@
+{
+  "name": "rock_paper_scissors",
+  "description": "Majority Rules unless...",
+  "version": "0.7.0",
+  "private": false,
+  "dependencies": {},
+  "happyFunTimes": {
+    "gameId": "rock_paper_scissors",
+    "category": "game",
+    "apiVersion": "1.5.0",
+    "gameType": "html",
+    "minPlayers": 2
+  }
+}
